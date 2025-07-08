@@ -1,9 +1,9 @@
 Team 2 Memebers:
 
-Kian Lee
-Anoushka George
-Zayan Khan
-Neel Venkatesan
+Kian Lee,
+Anoushka George,
+Zayan Khan,
+Neel Venkatesan,
 
 
 Note: we did this project together on colab, and as a result some of the libraries were updated verisons that have different commands. 
